@@ -1,6 +1,6 @@
-# Bugs sandbox
+# Prática de Colaboração em Projeto Open-Source
 
-Repositório para praticar resolução de bugs.
+Repositório para praticar resolução de bugs e features em projeto Open-Source.
 
 ![Java workflow](https://github.com/bahia-devs/open-coding-open-source/actions/workflows/java.yml/badge.svg)
 ![Javascript workflow](https://github.com/bahia-devs/open-coding-open-source/actions/workflows/node.js.yml/badge.svg)
