@@ -16,8 +16,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: Set up Python 3.14.0
+      - name: Set up Python 3.12.5
         uses: actions/setup-python@v2
         with:
-          python-version: "3.14.0"
+          python-version: "3.12.5"
       - run: cd python && python Calculator.py
