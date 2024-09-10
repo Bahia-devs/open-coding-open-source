@@ -3,7 +3,8 @@ function sum(a, b) {
 }
 
 function sub(a, b) {
-  return a - b;
+  const difference = a - b;
+  return Math.abs(difference);
 }
 
 function mul(a, b) {
